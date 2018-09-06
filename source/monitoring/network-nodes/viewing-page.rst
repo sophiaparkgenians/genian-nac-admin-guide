@@ -1,5 +1,5 @@
-Console Elements
-================
+Viewing Node Management Page
+============================
 
 The Genian **Admin Console** is a web-based management tool used to see the information collected by a Network Sensor and an Agent and to monitor and control the Nodes efficiently
 
