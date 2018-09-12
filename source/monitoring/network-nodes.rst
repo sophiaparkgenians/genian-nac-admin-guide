@@ -12,5 +12,6 @@ You can monitor **Nodes** by grouping, filtering, and listing by various perspec
    network-nodes/tagging-nodes
    network-nodes/deleting-nodes
    network-nodes/browsingnodes-sensorgroup
+   network-nodes/registering-nodes
    network-nodes/creating-nodegroups
    network-nodes/detecting-nodeplatform
