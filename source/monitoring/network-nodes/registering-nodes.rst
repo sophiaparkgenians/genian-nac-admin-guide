@@ -1,5 +1,5 @@
-Registering Nodes 2
-===================
+Registering Nodes
+=================
 
 You can manually register a **Node** by specifying an **IP** address and a **MAC** address, or multiple Nodes at a time by importing a file that contains Node information. This may be done when you need to reserve a Node that will be 
 detected as a new Node so that **IPAM Policy for New Node** will apply immediately.
