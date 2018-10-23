@@ -43,4 +43,3 @@ You can see and confirm the IP addresses are reserved in Management > IP Address
 .. |available-ip-icon| image:: /images/available-ip-icon.PNG
 .. |available-mac-icon| image:: /images/available-mac-icon.PNG
 
-
